@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding:0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+
+body{
+    background: url('../IMG/Background-site.jpg');
+
+}
+
+
+.conteudo{
+    height: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
